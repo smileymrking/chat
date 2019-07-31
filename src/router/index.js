@@ -29,7 +29,7 @@ const RouterConfig = {
       path: '/',
       name: 'dashboard',
       meta: { auth: true },
-      component: () => import('../views/About')
+      component: () => import('../views/Layout')
     }
   ]
 }
