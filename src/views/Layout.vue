@@ -28,7 +28,7 @@
 import Chat from './Chat'
 export default {
   name: 'Layout',
-  components: { ChatList }
+  components: { Chat }
 }
 </script>
 
